@@ -5,8 +5,8 @@ const Testimonials = () => {
        <section className="testimonial-section padding-tb">
   <div className="container">
     <div className="section-header wow fadeInUp" data-wow-delay="0.3s">
-      <h3>What Client Say Our Arikob Farms </h3>
-      <p>Because we promise and deliver. Our happy Customers have this to say about us</p>
+      <h3>What client say about Arikob Farms </h3>
+      <p>Because we promise and deliver. Our happy customers have this to say about us</p>
     </div>
     <div className="section-wrapper wow fadeInUp" data-wow-delay="0.4s">
       <div className="testi-slider">

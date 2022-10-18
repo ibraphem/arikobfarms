@@ -7,8 +7,8 @@ const Hero = () => {
         <div className="banner-content">
           <div className="banner-title">Arikob Farms</div>
           <div className="banner-desc">
-            We grow and process high quality agricultural Products for safe and quality consumption.
-            We care about what goes into our planting and processess.
+            We grow and process high quality agricultural products for safe consumption.
+            We also care about your health and recreational needs.
           </div>
           <Link to="/about" className="lab-btn">
             <span>Discover Us</span>

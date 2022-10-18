@@ -25,9 +25,9 @@ const AboutSummary = () => {
               className="section-header text-start wow fadeInUp"
               data-wow-delay="0.3s"
             >
-              <h3>Arikob Farms Organic Qaulity Assuarance Process.</h3>
+              <h3>Arikob Farms Qaulity Assuarance Process.</h3>
               <p>
-                We pride ourselves in our culture of excellence and adherance to the best practices and standards.
+                We pride ourselves in the culture of excellence and adherance to international standards and best practices in production.
               </p>
             </div>
             <div className="section-wrapper">
@@ -41,7 +41,7 @@ const AboutSummary = () => {
                       <h5>Unique Expertise</h5>
                     
                     <p>
-                      Our work force are highly trained professionals who knows their onions.
+                      Our staffs and managers are highly trained professionals who are hospitable and with great sense of humour.
                     </p>
                   </div>
                 </div>
@@ -56,7 +56,7 @@ const AboutSummary = () => {
                       <h5>Standardized Operations</h5>
                     
                     <p>
-                      We continually evolved to stay aloof with modern best practices.
+                      We continually evolved to stay ahead with best modern practices.
                     </p>
                   </div>
                 </div>
@@ -64,7 +64,7 @@ const AboutSummary = () => {
             </div>
             <div className="text-start wow fadeInUp" data-wow-delay="0.6s">
               <Link to="/services" className="lab-btn">
-                <span>What we do</span>
+                <span>What We Do</span>
               </Link>
             </div>
           </div>

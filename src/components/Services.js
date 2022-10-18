@@ -30,7 +30,7 @@ const Services = () => {
               </div>
               <div className="lab-content">
                <h5>Honey Harvest</h5>
-                <p>With us you can experience bee farming at it best. We have fine tuned and advanced the process and business of haney harvesting for profit optimization.</p>
+                <p>With us you can experience bee farming at it best. We have fine tuned and advanced the process and business of horny harvesting for profit optimization.</p>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@ const Services = () => {
               </div>
               <div className="lab-content">
                <h5>Poultry</h5>
-                <p>When it comes to Poultry farming and business for meats and eggs. We are leaders in the industry. We have managed to blend expertise with experience to deliver.</p>
+                <p>When it comes to poultry farming and business for meats and eggs. We are leaders in the industry. We have managed to blend expertise with experience to deliver.</p>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ const Services = () => {
               </div>
               <div className="lab-content">
                <h5>Agricultural Technology</h5>
-                <p>From farm clearing to irrgation engineering and everything in between, Arikob Farms offers the best engineering services for resource and profit optimizatiion.</p>
+                <p>From farm clearing to irrigation, harvesting and processing, Arikob Farms offers the best engineering services for resource and profit optimizatiion.</p>
               </div>
             </div>
           </div>

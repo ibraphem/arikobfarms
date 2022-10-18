@@ -31,7 +31,7 @@ const ServiceSummary = () => {
 
       <div className="container">
         <div className="section-header wow fadeInUp" data-wow-delay="0.3s">
-          <h3>Arikob Farms Ecology Products</h3>
+          <h3>Products</h3>
           <p>
             We are unique beacuse we hold ourselves to the highest possible standard in the agro-business.
           </p>
@@ -87,7 +87,7 @@ const ServiceSummary = () => {
                     
                       <h5>Fresh Fruits</h5>
                    
-                    <p>Diets Suppliments for healthy living and growth.</p>
+                    <p>Diets suppliments for healthy living and growth.</p>
                   </div>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const ServiceSummary = () => {
                   </div>
                   <div className="feature-content">
                     
-                      <h5>Awesome Wheats</h5>
+                      <h5>Awesome Grains and Wheats</h5>
                    
                     <p>Qualitative grains and fibre for strength.</p>
                   </div>

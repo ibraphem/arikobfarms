@@ -12,7 +12,7 @@ const ContactUs = () => {
               <i className="icofont-google-map" />
             </div>
             <div className="contact-details">
-              <p>Block 141 -145, Gbadamosi Avenue, Ikoyi, Lagos Nigeria.</p>
+              <p>A778/9, Outer Ring Road, Accra. GHANA</p>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@ const ContactUs = () => {
             </div>
             <div className="contact-details">
               <p>
-                +234-703-987-2351, +234-803-987-2351, +233-803-687-2351</p>
+                +233-242-551-065, +233-244-087-335</p>
             </div>
           </div>
         </div>
@@ -33,7 +33,7 @@ const ContactUs = () => {
               <i className="icofont-envelope" />
             </div>
             <div className="contact-details">
-              <p>arikob@gmail.com</p>
+              <p>arikofarmsb@gmail.com</p>
             </div>
           </div>
         </div>
