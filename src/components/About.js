@@ -20,7 +20,7 @@ const About = () => {
         <div className="section-wrapper">
           <h3>We are an integrated agro-based organic and tourism farm for Your business.</h3>
           <h5>We are unique because we hold ourselves to the highest possible standard in the agro and tourism industry.</h5>
-          <p>We pride ourselves in the culture of excellence, the hallmark to greatness. We adhere to international standards and best practices of production.
+          <p>We pride ourselves in the culture of excellence, the hallmark to greatness. We adhere to international standards and best practices of production.</p>
 	  <p>Our staffs and managers are highly trained professionals, hospitable with an incredible sense of humour</p>
           <p>We grow and process high quality agricultural products for safe consumption. We also care about your health and recreational needs</p>
         </div>
