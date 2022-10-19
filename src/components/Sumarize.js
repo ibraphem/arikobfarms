@@ -11,7 +11,7 @@ const Sumarize = () => {
       <a href="#">
         <h5>Fresh Vegetable</h5>
       </a>
-      <p>Continually aggregate interfaces thout.</p>
+      <p>We continually produce the freshest of vegetables for safe consumption.</p>
     </div>
   </div>
 </div>

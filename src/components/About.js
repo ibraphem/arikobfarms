@@ -18,10 +18,11 @@ const About = () => {
       </div>
       <div className="col-lg-6 col-12">
         <div className="section-wrapper">
-          <h3>We are Best Organic Agro-based company for Your business.</h3>
-          <h5>We are unique beacuse we hold ourselves to the highest possible standard in the agro-business.</h5>
-          <p>We pride ourselves in our culture of excellence and adherance to the best practices and standards. Our work force are highly trained professionals who knows their onions</p>
-          <p>We grow and process high quality agricultural Products for safe and quality consumption. We care about what goes into our planting and processess.</p>
+          <h3>We are an integrated agro-based organic and tourism farm for Your business.</h3>
+          <h5>We are unique because we hold ourselves to the highest possible standard in the agro and tourism industry.</h5>
+          <p>We pride ourselves in the culture of excellence, the hallmark to greatness. We adhere to international standards and best practices of production.
+	  <p>Our staffs and managers are highly trained professionals, hospitable with an incredible sense of humour</p>
+          <p>We grow and process high quality agricultural products for safe consumption. We also care about your health and recreational needs</p>
         </div>
         <div className="text-start">
           <Link to="/services" className="lab-btn"><span>What We Do</span></Link>
@@ -45,7 +46,7 @@ const About = () => {
               </div>
               <div className="counter-content">
                 <h3 className="count-number">15000</h3>
-                <p className="count-title">Poultry Capacity</p>
+                <p className="count-title">Poultry and Livestock</p>
               </div>
             </div>
           </div>
@@ -58,7 +59,7 @@ const About = () => {
               </div>
               <div className="counter-content">
                 <h3 className="count-number">5000</h3>
-                <p className="count-title">Diary Capacity</p>
+                <p className="count-title">Crop Plantation and Ranges</p>
               </div>
             </div>
           </div>
@@ -71,7 +72,7 @@ const About = () => {
               </div>
               <div className="counter-content">
                 <h3 className="count-number">257</h3>
-                <p className="count-title">Farm Workers</p>
+                <p className="count-title">Tourism and Hospitality</p>
               </div>
             </div>
           </div>
@@ -84,7 +85,7 @@ const About = () => {
               </div>
               <div className="counter-content">
                 <h3 className="count-number">30000</h3>
-                <p className="count-title">Plantation Acres</p>
+                <p className="count-title">Education and Training</p>
               </div>
             </div>
           </div>
